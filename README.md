@@ -46,3 +46,10 @@ Processing metadata through a data pipeline
 Generating analytical insights from usage data
 
 The database becomes self-aware and analytics-driven, not just a storage system.
+
+
+Folder Structure
+
+<img width="1109" height="452" alt="image" src="https://github.com/user-attachments/assets/5c2e083c-75ff-45aa-9d8d-818388c7a325" />
+
+
