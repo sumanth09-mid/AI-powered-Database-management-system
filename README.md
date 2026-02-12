@@ -50,6 +50,12 @@ The database becomes self-aware and analytics-driven, not just a storage system.
 
 Folder Structure
 
-<img width="1109" height="452" alt="image" src="https://github.com/user-attachments/assets/5c2e083c-75ff-45aa-9d8d-818388c7a325" />
+<img width="448" height="465" alt="image" src="https://github.com/user-attachments/assets/2f71f5ba-887b-467f-93a8-b7ca6de5e9bd" />
+
+
+dashboard->main.py
+datalakes->kafka_paraquet
+
+
 
 
